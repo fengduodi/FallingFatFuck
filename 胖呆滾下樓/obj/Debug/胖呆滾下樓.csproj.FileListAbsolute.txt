@@ -1,0 +1,10 @@
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\bin\Debug\胖呆滾下樓.exe.config
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\bin\Debug\胖呆滾下樓.exe
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\bin\Debug\胖呆滾下樓.pdb
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.csproj.AssemblyReference.cache
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.Form1.resources
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.Properties.Resources.resources
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.exe
+C:\Users\CYH\source\repos\胖呆滾下樓\胖呆滾下樓\obj\Debug\胖呆滾下樓.pdb
